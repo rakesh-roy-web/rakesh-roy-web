@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
-<h3 align="center">💻 IT Student | Full Stack Developer | Tech Enthusiast from Kolkata, India 🇮🇳</h3>
+<!-- Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋%2C+I'm+Rakesh+Roy;Full+Stack+Developer+%7C+IT+Student;Tech+Enthusiast+from+Kolkata%2C+India)](https://git.io/typing-svg)
 
 ---
 
@@ -14,18 +14,23 @@ I specialize in both frontend and backend development, crafting seamless digital
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack  
 
-#### 🖥️ Frontend
+<p align="center">
+ <img align="right" alt="Coding" width="300"src="https://github.com/user-attachments/assets/9d90a917-414e-4307-844e-7bb3dcd6d8fb" />
+
+</p>
+
+#### 🖥️ Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-#### ⚙️ Backend
+#### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### 🗄️ Databases & Tools
+#### 🗄️ Databases & Tools  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,7 +41,7 @@ I specialize in both frontend and backend development, crafting seamless digital
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/rakesh roy" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rakesh-roy" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:iamrakeshroy45@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/roy121201" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
@@ -56,5 +61,5 @@ I specialize in both frontend and backend development, crafting seamless digital
 ---
 
 
-
-⭐ **Thanks for visiting my GitHub profile!** If you like my work, consider giving a star 🌟 to my repositories!
+⭐ **Thanks for visiting my GitHub profile!**  
+If you like my work, consider giving a star 🌟 to my repositories.
